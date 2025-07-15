@@ -15,4 +15,4 @@ jobs:
           python-version: 3.9
 
       - name: Run Python Script
-        run: python hell.py
+        run: python hello.py
